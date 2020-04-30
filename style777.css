@@ -115,7 +115,7 @@ body {
 }
 .vk:hover {
     border-color:  #3E84CA;
-    box-shadow: #3E84CA ;
+    box-shadow: 0px 0px 35px #3E84CA ;
     color:#3E84CA;
 }
 .whatsapp:hover {
